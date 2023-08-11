@@ -17,8 +17,8 @@ public class Teste {
 		int TesteQuatroConvertido = Integer.parseInt(TesteQuatro);
 		int TesteResultadoDois = TesteTresConvertido + TesteQuatroConvertido;
 		
-//		System.out.println("A soma de " + TesteTres + " com " + TesteQuatro + " Será " + TesteResultadoDois + ":D");
-		System.out.println("A soma de {}".format(TesteQuatro, args));
+	System.out.println("A soma de " + TesteTres + " com " + TesteQuatro + " Será " + TesteResultadoDois + ":D");
+	
 	}
 
 }

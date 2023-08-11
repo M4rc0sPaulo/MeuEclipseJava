@@ -4,7 +4,7 @@ public class Teste {
 
 	public static void main(String[] args) {
 		
-		int Valor= 11;
+//		int Valor= 11;
 		
 
 		System.out.println("Olá, Mundo!");
@@ -16,12 +16,14 @@ public class Teste {
 		System.out.println("Meu nome é \nMarcos Paulo");
 		System.out.println("Meu \nnome \nnão \né Marcos Paulo");
 		
-		
+		/*
 		if(Valor > 10){
 			
 			System.out.println("Meu nome será João");
 		}
-		else System.out.println("Meu nome é Maria Joaquina");
+		else System.out.println("Meu nome é Maria Joaquina"
+				+ "");
+				*/
 	}
 
 }
